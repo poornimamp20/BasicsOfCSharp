@@ -13,7 +13,8 @@ namespace DSA
             q.Do();*/
             /*LinkedList list = new LinkedList();
             list.Do();*/
-            LinearSearch.Do();
+            //LinearSearch.Do();
+            BinarySearch.Do();
 
         }
     }
