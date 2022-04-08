@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DSA.Algorithms;
+using System;
 
 namespace DSA
 {
@@ -10,8 +11,9 @@ namespace DSA
              stack.Do();*/
             /*Queue q = new Queue();
             q.Do();*/
-            LinkedList list = new LinkedList();
-            list.Do();
+            /*LinkedList list = new LinkedList();
+            list.Do();*/
+            LinearSearch.Do();
 
         }
     }
