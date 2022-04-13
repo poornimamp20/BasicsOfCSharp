@@ -15,7 +15,8 @@ namespace DSA
             list.Do();*/
             //LinearSearch.Do();
             //BinarySearch.Do();
-            BubbleSort.Do();
+            // BubbleSort.Do();
+            new MergeSort().Do();
 
         }
     }
